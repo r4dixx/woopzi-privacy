@@ -1,4 +1,7 @@
-Welcome! Please choose your language:
+- 🌍 [Privacy policy](./privacy_en)
+- 🇫🇷 [Politique de confidentialité](./privacy_fr)
 
-- 🌍 [English version](./en)
-- 🇫🇷 [Version française](./fr)
+---
+
+- 🌍 [Terms of use](./toc_en)
+- 🇫🇷 [Conditions d'utilisation](./toc_fr)
